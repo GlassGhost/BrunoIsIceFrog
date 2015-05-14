@@ -28,3 +28,5 @@ Disputed with Unknown Date & link
 --[some reddit comment](http://www.reddit.com/r/DotA2/comments/35wh35/bruno_announced_that_he_is_now_working_for_valve/cr8t0i7)
 
 If you have more information please submit a GIT pull request @ https://github.com/GlassGhost/BrunoIsIceFrog/
+
+You may also Live Chat about this subject @ https://gitter.im/GlassGhost/BrunoIsIceFrog
