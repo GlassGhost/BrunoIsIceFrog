@@ -1,4 +1,6 @@
 ## All of the public undisputed information available
+
+[![Join the chat at https://gitter.im/GlassGhost/BrunoIsIceFrog](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/GlassGhost/BrunoIsIceFrog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ___
 
 2008-01-02 Bruno Creates reddit account -> http://www.reddit.com/user/IceX
