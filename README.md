@@ -15,7 +15,7 @@ ___
 --[some reddit comment](http://www.reddit.com/r/DotA2/comments/35wh35/bruno_announced_that_he_is_now_working_for_valve/cr8l1mh)
 
 
-2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog he was IMMEDIATELY EJECTED from the cast for 8 minutes LOL.
+2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after the 2nd time  [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog in that cast, he was IMMEDIATELY EJECTED from the cast for 8 minutes
 
 2014-5-3 [Bruno announced he is a Valve Employee](http://www.reddit.com/r/DotA2/comments/35uil7/where_are_bruno_and_2gd/cr8giio)
 
