@@ -1,7 +1,17 @@
 ## All of the public undisputed information available
 ___
 
+2002 [Bruno visited the Instituto Schönthal High School from which he graduated with a special orientation towards Computer Science in 2002.](http://en.wikipedia.org/wiki/User:FredericL/Bruno_Carlucci)
+
+2005 [Bruno was introduced to the original DotA game by a friend.](http://en.wikipedia.org/wiki/User:FredericL/Bruno_Carlucci)
+
+2005 IceFrog officially began his involvement with Defense of the Ancients. [IceFrog had already had formal programming training by the time he became the curator of Defense of the Ancients](http://dota2.gamepedia.com/IceFrog)
+
+2007 [He attended the Buenos Aires Institute of Technology with a scholarship and graduated in 2007 with a masters' degree in Computer Science.](http://en.wikipedia.org/wiki/User:FredericL/Bruno_Carlucci)
+
 2008-01-02 Bruno Creates reddit account -> http://www.reddit.com/user/IceX
+
+2009-2 On his blog, IceFrog said hes 25 years old, Bruno is born January 28, 1985(Bruno had 24 years in that time). If IceFrog counted his age starting from 1 and not from 0, then Bruno is same age as IceFrog - (Bruno is born January 28, 1985)
 
 2011-09 Dota 2 Goes into Beta
 
@@ -17,7 +27,7 @@ ___
 
 2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after the 2nd time  [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog in that cast, he was IMMEDIATELY EJECTED from the cast for 8 minutes
 
-2014-5-3 [Bruno announced he is a Valve Employee](http://www.reddit.com/r/DotA2/comments/35uil7/where_are_bruno_and_2gd/cr8giio)
+2015-5-13 [Bruno announced he is a Valve Employee](http://www.reddit.com/r/DotA2/comments/35uil7/where_are_bruno_and_2gd/cr8giio)
 
 Disputed with Unknown Date & link
 > Also, Bruno was once streaming and discussing the changes in a previous Dota 2
