@@ -26,19 +26,12 @@ ___
 
 2013-09-07 [MANGOES](http://imgur.com/vltebEX), [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834)
 
+2014-09-24 With Bruno, Aui_2000, Bulba, 1437, Singsing, Arteezy and Ar1se in a Stream about 6.81 patch [Bulba asked why Bruno "why didn't you take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m)
+
 2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after the 2nd time  [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog in that cast, he was IMMEDIATELY EJECTED from the cast for 8 minutes
 
 2015-5-13 [Bruno announced he is a Valve Employee](http://www.reddit.com/r/DotA2/comments/35uil7/where_are_bruno_and_2gd/cr8giio)
 
-2014-09-24 With Bruno, Bulba, Aui2000, & perhaps a few others in a Stream about 6.81 patch [Bulba asked why Bruno "why didn't you take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m)
-
-Disputed with Unknown Date & link
-> Also, Bruno was once streaming and discussing the changes in a previous Dota 2
-> version with a few pro players with him, and after reading one of the changes
-> one of the pro players said to Bruno "why didn't you implement my idea, man",
-> followed by an awkward silence.
-
---[some reddit comment](http://www.reddit.com/r/DotA2/comments/35wh35/bruno_announced_that_he_is_now_working_for_valve/cr8t0i7)
 
 If you have more information please submit a GIT pull request @ https://github.com/GlassGhost/BrunoIsIceFrog/
 
