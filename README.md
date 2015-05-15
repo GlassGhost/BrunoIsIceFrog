@@ -13,6 +13,8 @@ ___
 
 2009-2 On his blog, IceFrog said hes 25 years old, Bruno is born January 28, 1985(Bruno had 24 years in that time). If IceFrog counted his age starting from 1 and not from 0, then Bruno is same age as IceFrog - (Bruno is born January 28, 1985)
 
+2011-08-17 [Some old pics of Bruno at TI#1](https://twitter.com/StatsmanBruno/status/567486814475153408)
+
 2011-09 Dota 2 Goes into Beta
 
 2012-08-26 Birthed into casting at [TI2](http://wiki.teamliquid.net/dota2/The_International/2012)
@@ -27,8 +29,6 @@ ___
 2013-09-07 [MANGOES](http://imgur.com/vltebEX), [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and yet even more [MANGOES](http://wiki.teamliquid.net/dota2/Enchanted_Mango)
 
 2014-09-24 With Bruno, Aui_2000, Bulba, 1437, Singsing, Arteezy and Ar1se in a Stream about 6.81 patch [Bulba asked Bruno "why didn't **you** take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m) AND ["I thought Dazzle was pretty good in this version but **you** just gave him another buff"](https://youtu.be/SWu-1eQOVPs?t=1496)
-
-In that same video above [you can see a chinese bookmark in his browser](http://i.imgur.com/ZeNehjU.png)
 
 2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after the 2nd time  [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog in that cast, he was IMMEDIATELY EJECTED from the cast for 8 minutes
 
