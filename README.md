@@ -30,6 +30,8 @@ ___
 
 2015-5-13 [Bruno announced he is a Valve Employee](http://www.reddit.com/r/DotA2/comments/35uil7/where_are_bruno_and_2gd/cr8giio)
 
+2014-09-24 With Bruno, Bulba, Aui2000, & perhaps a few others in a Stream about 6.81 patch [Bulba asked why Bruno "why didn't you take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m)
+
 Disputed with Unknown Date & link
 > Also, Bruno was once streaming and discussing the changes in a previous Dota 2
 > version with a few pro players with him, and after reading one of the changes
