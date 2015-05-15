@@ -1,4 +1,6 @@
 ## All of the public undisputed information available
+
+[![Join the chat at https://gitter.im/GlassGhost/BrunoIsIceFrog](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/GlassGhost/BrunoIsIceFrog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ___
 
 2002 [Bruno visited the Instituto Schönthal High School from which he graduated with a special orientation towards Computer Science in 2002.](http://en.wikipedia.org/wiki/User:FredericL/Bruno_Carlucci)
