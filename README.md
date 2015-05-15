@@ -26,7 +26,7 @@ ___
 
 2013-09-07 [MANGOES](http://imgur.com/vltebEX), [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834)
 
-2014-09-24 With Bruno, Aui_2000, Bulba, 1437, Singsing, Arteezy and Ar1se in a Stream about 6.81 patch [Bulba asked Bruno "why didn't you take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m)
+2014-09-24 With Bruno, Aui_2000, Bulba, 1437, Singsing, Arteezy and Ar1se in a Stream about 6.81 patch [Bulba asked Bruno "why didn't **you** take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m) AND ["I thought Dazzle was pretty good in this version but **you** just gave him another buff"](https://youtu.be/SWu-1eQOVPs?t=1496)
 
 2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after the 2nd time  [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog in that cast, he was IMMEDIATELY EJECTED from the cast for 8 minutes
 
