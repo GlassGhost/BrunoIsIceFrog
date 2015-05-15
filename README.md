@@ -1,4 +1,4 @@
-## All of the public undisputed information available
+## All of the public undisputed information available(Bulba & MANGOES being the most blatant reveal)
 ___
 
 2002 [Bruno visited the Instituto Schönthal High School from which he graduated with a special orientation towards Computer Science in 2002.](http://en.wikipedia.org/wiki/User:FredericL/Bruno_Carlucci)
@@ -24,11 +24,15 @@ ___
 
 --[some reddit comment](http://www.reddit.com/r/DotA2/comments/35wh35/bruno_announced_that_he_is_now_working_for_valve/cr8l1mh)
 
-2013-09-07 [MANGOES](http://imgur.com/vltebEX), [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834)
+2013-09-07 [MANGOES](http://imgur.com/vltebEX), [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and yet even more [MANGOES](http://wiki.teamliquid.net/dota2/Enchanted_Mango)
 
 2014-09-24 With Bruno, Aui_2000, Bulba, 1437, Singsing, Arteezy and Ar1se in a Stream about 6.81 patch [Bulba asked Bruno "why didn't **you** take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m) AND ["I thought Dazzle was pretty good in this version but **you** just gave him another buff"](https://youtu.be/SWu-1eQOVPs?t=1496)
 
+In that same video above [you can see a chinese bookmark in his browser](http://i.imgur.com/ZeNehjU.png)
+
 2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after the 2nd time  [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog in that cast, he was IMMEDIATELY EJECTED from the cast for 8 minutes
+
+2014-12-7 2 days after LD event [Bruno Anounces that he is indeed IceFrog](https://youtu.be/04IMtl5yfvs)
 
 2015-5-13 [Bruno announced he is a Valve Employee](http://www.reddit.com/r/DotA2/comments/35uil7/where_are_bruno_and_2gd/cr8giio)
 
