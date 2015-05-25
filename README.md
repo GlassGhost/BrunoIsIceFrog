@@ -1,4 +1,4 @@
-## All of the public undisputed information available(Bulba & MANGOES being the most blatant reveal)
+## All of the public undisputed information implying that [Bruno is IceFrog](http://i.imgur.com/7qtLpQL.jpg)(Stream about 6.81 patch & MANGOES being the most blatant reveal)
 ___
 
 2002 [Bruno visited the Instituto Schönthal High School from which he graduated with a special orientation towards Computer Science in 2002.](http://en.wikipedia.org/wiki/User:FredericL/Bruno_Carlucci)
@@ -12,6 +12,7 @@ ___
 2008-01-02 Bruno Creates reddit account -> http://www.reddit.com/user/IceX
 
 2009-2 On his blog, IceFrog said hes 25 years old, Bruno is born January 28, 1985(Bruno had 24 years in that time). If IceFrog counted his age starting from 1 and not from 0, then Bruno is same age as IceFrog - (Bruno is born January 28, 1985)
+[Both Icefrog and Bruno are Aquarius](http://t.qq.com/icefrogdev/)
 
 2011-08-17 [Some old pics from Bruno at TI#1](https://twitter.com/StatsmanBruno/status/567486814475153408)
 
@@ -28,7 +29,12 @@ ___
 
 2013-09-07 [MANGOES](http://imgur.com/vltebEX), [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and [MANGOES](https://twitter.com/StatsmanBruno/status/376378087690104834), and yet even more [MANGOES](http://wiki.teamliquid.net/dota2/Enchanted_Mango)
 
-2014-09-24 With Bruno, Aui_2000, Bulba, 1437, Singsing, Arteezy and Ar1se in a Stream about 6.81 patch [Bulba asked Bruno "why didn't **you** take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m) AND ["I thought Dazzle was pretty good in this version but **you** just gave him another buff"](https://youtu.be/SWu-1eQOVPs?t=1496)
+### 2014-09-24 In a Stream about 6.81 patch with Bruno, Aui_2000, Bulba, 1437, Singsing, Arteezy and Ar1se 3 slips happen:
+
+  * [Bulba asked Bruno "why didn't **you** take my suggestion"](https://youtu.be/SWu-1eQOVPs?t=23m) 
+  * ["I thought Dazzle was pretty good in this version but **you** just gave him another buff"](https://youtu.be/SWu-1eQOVPs?t=1496)
+  * [Aui2000: "Ogre has 7 base armor" Bruno: "Has 7 base armor?! Really, **I didn't remove that?!**"](http://www.youtube.com/watch?v=SWu-1eQOVPs&t=66m35s)
+
 
 2014-12-5 In [this BTS 2 youtube VoD](http://youtu.be/PH9RVwoH81g?t=37m42s) 15 seconds after the 2nd time  [LD](http://www.reddit.com/user/ldDOTA) slipped the name IceFrog in that cast, he was IMMEDIATELY EJECTED from the cast for 8 minutes
 
