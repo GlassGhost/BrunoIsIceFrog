@@ -18,6 +18,8 @@ ___
 
 2011-09 Dota 2 Goes into Beta
 
+2012-09-01 I can't remember the last time Gabe Said someone was ["Everyone's Hero"](https://twitter.com/follow2GD/status/242019659312951296)
+
 2012-08-26 Birthed into casting at [TI2](http://wiki.teamliquid.net/dota2/The_International/2012)
 > Because he ran a Dota stat website, TI2 was planned was to have him off-camera
 > just feeding stats to the hosting panel. At the event just before it started 2GD
