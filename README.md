@@ -46,6 +46,10 @@ ___
 
 2013-08-06 Idunno about you but, [He looks like he's calling the shots boyz.](http://i.imgur.com/0s60Bul.jpg)
 
+2015-06-27 Talking in 3rd person about himself is no uncommon thing for IceFrog["Icefrog wants to speak with you."](https://www.reddit.com/r/DotA2/comments/3bajfn/lds_blog_on_caster_invites_to_ti_the_hardest_time/cskecoa)
+
+2015-08-20 [I think we can agree that google knows everything about everyone, definitive proof? You be the judge](http://i.imgur.com/l0Sje1b.png)
+
 If you have more information please submit a GIT pull request @ https://github.com/GlassGhost/BrunoIsIceFrog/
 
 You may also Live Chat about this subject @ https://gitter.im/GlassGhost/BrunoIsIceFrog
