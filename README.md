@@ -14,7 +14,7 @@ ___
 2009-2 On his blog, IceFrog said hes 25 years old, Bruno is born January 28, 1985(Bruno had 24 years in that time). If IceFrog counted his age starting from 1 and not from 0, then Bruno is same age as IceFrog - (Bruno is born January 28, 1985)
 [Both Icefrog and Bruno are Aquarius](http://t.qq.com/icefrogdev/)
 
-2011-08-17 [Some old pics from Bruno at TI#1](https://twitter.com/StatsmanBruno/status/567486814475153408)
+2011-08-17 [Bruno attended TI#1](https://youtu.be/hGTodHNXTA4?t=40s)[Some old pics from Bruno at TI#1](https://twitter.com/StatsmanBruno/status/567486814475153408)
 
 2011-09 Dota 2 Goes into Beta
 
