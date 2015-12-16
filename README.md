@@ -1,5 +1,7 @@
-## All of the public undisputed information implying that [Bruno is IceFrog](http://i.imgur.com/7qtLpQL.jpg)(Stream about 6.81 patch & MANGOES being the most blatant reveal)
+## All of the public undisputed information implying that [/u/IceX](http://reddit.com/user/IceX)(Bruno) is [IceFrog](http://i.imgur.com/7qtLpQL.jpg)(Stream about 6.81 patch & MANGOES being the most blatant reveal)
 ___
+
+1987 [Bruno started reading and studying math; His words, not mine](https://youtu.be/hGTodHNXTA4?t=3m27s)
 
 2002 [Bruno visited the Instituto Schönthal High School from which he graduated with a special orientation towards Computer Science in 2002.](http://en.wikipedia.org/wiki/User:FredericL/Bruno_Carlucci)
 
