@@ -47,6 +47,7 @@ ___
 2015-5-13 [Bruno announced he is a Valve Employee](http://www.reddit.com/r/DotA2/comments/35uil7/where_are_bruno_and_2gd/cr8giio)
 
 2013-08-06 Idunno about you but, [He looks like he's calling the shots boyz.](http://i.imgur.com/0s60Bul.jpg)
+2016-02-23 Bruno and valve sendng 144hz monitors to shanghai major (https://www.reddit.com/r/DotA2/comments/475dr3/thanks_to_bruno_and_valve_144hz_are_on_the_way/)
 
 If you have more information please submit a GIT pull request @ https://github.com/GlassGhost/BrunoIsIceFrog/
 
